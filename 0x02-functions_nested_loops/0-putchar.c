@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "0-putchar.c"
+#include "main.h"
 
 /**
 * main - Check decription
